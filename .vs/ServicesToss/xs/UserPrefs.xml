@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F61D2E7C-DC07-4A09-B6CA-890330E6DB34}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServicesToss/Controllers/CheckedController.cs">
+    <Files>
+      <File FileName="ServicesToss/Controllers/CheckedController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServicesToss" expanded="True">
+            <Node name="ServicesToss" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CheckedController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ServicesToss PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

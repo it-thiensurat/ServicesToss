@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SaveTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cbTicket" type="tns:ChatbotTicket" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ChatbotTicket">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ReferenceId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FacebookId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FacebookName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FacebookPage" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Province" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CategoryId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ChatURL" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Detail2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LogBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CaseId" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SaveTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SaveTicketResult" type="tns:ServiceResponseOfChatbotTicketResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ServiceResponseOfChatbotTicketResult">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:ServiceResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Data" type="tns:ChatbotTicketResult" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ServiceResponse" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StatusCode" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ChatbotTicketResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReferenceId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetCustomerHistory">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="phoneNumber" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomerHistoryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCustomerHistoryResult" type="tns:ServiceResponseOfListOfChatbotCustomerResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ServiceResponseOfListOfChatbotCustomerResult">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:ServiceResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Data" type="tns:ArrayOfChatbotCustomerResult" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfChatbotCustomerResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ChatbotCustomerResult" nillable="true" type="tns:ChatbotCustomerResult" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ChatbotCustomerResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ReferenceId" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CaseId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="FacebookId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FacebookName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FacebookPage" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Province" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CategoryId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ChatUrl" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Detail2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LogBy" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNumber" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreatedDate" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="ClosedDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SaveTicketTOS">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tosTicket" type="tns:TosTicket" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TosTicket">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ReferenceId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="InformDateTime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProblemId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProblemName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Contno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AddressDetail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Amphur" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="District" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Province" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Zipcode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tel" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CategoryId" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SaveTicketTOSResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SaveTicketTOSResult" type="tns:ServiceResponseOfTosTicketResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ServiceResponseOfTosTicketResult">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:ServiceResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Data" type="tns:TosTicketResult" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="TosTicketResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReferenceId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SaveTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:SaveTicket" />
+  </wsdl:message>
+  <wsdl:message name="SaveTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:SaveTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerHistorySoapIn">
+    <wsdl:part name="parameters" element="tns:GetCustomerHistory" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerHistorySoapOut">
+    <wsdl:part name="parameters" element="tns:GetCustomerHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="SaveTicketTOSSoapIn">
+    <wsdl:part name="parameters" element="tns:SaveTicketTOS" />
+  </wsdl:message>
+  <wsdl:message name="SaveTicketTOSSoapOut">
+    <wsdl:part name="parameters" element="tns:SaveTicketTOSResponse" />
+  </wsdl:message>
+  <wsdl:portType name="TicketServiceSoap">
+    <wsdl:operation name="SaveTicket">
+      <wsdl:input message="tns:SaveTicketSoapIn" />
+      <wsdl:output message="tns:SaveTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerHistory">
+      <wsdl:input message="tns:GetCustomerHistorySoapIn" />
+      <wsdl:output message="tns:GetCustomerHistorySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveTicketTOS">
+      <wsdl:input message="tns:SaveTicketTOSSoapIn" />
+      <wsdl:output message="tns:SaveTicketTOSSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="TicketServiceSoap" type="tns:TicketServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SaveTicket">
+      <soap:operation soapAction="http://tempuri.org/SaveTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerHistory">
+      <soap:operation soapAction="http://tempuri.org/GetCustomerHistory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveTicketTOS">
+      <soap:operation soapAction="http://tempuri.org/SaveTicketTOS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="TicketServiceSoap12" type="tns:TicketServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SaveTicket">
+      <soap12:operation soapAction="http://tempuri.org/SaveTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomerHistory">
+      <soap12:operation soapAction="http://tempuri.org/GetCustomerHistory" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveTicketTOS">
+      <soap12:operation soapAction="http://tempuri.org/SaveTicketTOS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="TicketService">
+    <wsdl:port name="TicketServiceSoap" binding="tns:TicketServiceSoap">
+      <soap:address location="http://192.168.116.22/iMindTosWebService/TicketService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="TicketServiceSoap12" binding="tns:TicketServiceSoap12">
+      <soap12:address location="http://192.168.116.22/iMindTosWebService/TicketService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

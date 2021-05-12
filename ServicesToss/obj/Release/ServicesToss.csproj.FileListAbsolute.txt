@@ -1,0 +1,382 @@
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\csc.exe
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\csc.exe.config
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\csc.rsp
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\csi.exe
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\csi.rsp
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\System.AppContext.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\System.Collections.Immutable.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\System.IO.FileSystem.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\vbc.exe
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\vbc.exe.config
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\vbc.rsp
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\VBCSCompiler.exe
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\roslyn\VBCSCompiler.exe.config
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\ServicesToss.dll.config
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\ServicesToss.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\ServicesToss.pdb
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Newtonsoft.Json.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Net.Http.Formatting.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Http.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Http.WebHost.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Newtonsoft.Json.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Net.Http.Formatting.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Http.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Http.WebHost.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\obj\Release\ServicesToss.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\obj\Release\ServicesToss.pdb
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Dapper.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Dapper.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\websocket-sharp.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\websocket-sharp.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Antlr3.Runtime.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Microsoft.Web.Infrastructure.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Helpers.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Mvc.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Optimization.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Razor.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.WebPages.Deployment.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.WebPages.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.WebPages.Razor.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\WebGrease.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Antlr3.Runtime.pdb
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Helpers.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Mvc.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Optimization.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.Razor.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.WebPages.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.WebPages.Deployment.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\System.Web.WebPages.Razor.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\obj\Release\ServicesToss.csprojAssemblyReference.cache
+D:\Project ASP.NET\ServicesToss\ServicesToss\obj\Release\ServicesToss.csproj.CoreCompileInputs.cache
+D:\Project ASP.NET\ServicesToss\ServicesToss\obj\Release\ServicesToss.csproj.CopyComplete
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Auth.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Core.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.PlatformServices.dll
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.pdb
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Auth.pdb
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Auth.xml
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Core.pdb
+D:\Project ASP.NET\ServicesToss\ServicesToss\bin\Google.Apis.Core.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\csc.exe
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\csc.exe.config
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\csc.rsp
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\csi.exe
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\csi.rsp
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\System.AppContext.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\System.Collections.Immutable.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\System.IO.FileSystem.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\System.Reflection.Metadata.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\vbc.exe
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\vbc.exe.config
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\vbc.rsp
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\VBCSCompiler.exe
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\roslyn\VBCSCompiler.exe.config
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\ServicesToss.dll.config
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\ServicesToss.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\ServicesToss.pdb
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Antlr3.Runtime.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Dapper.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Auth.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Auth.PlatformServices.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Core.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.PlatformServices.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Microsoft.Web.Infrastructure.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Newtonsoft.Json.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Net.Http.Formatting.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Helpers.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Http.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Http.WebHost.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Mvc.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Optimization.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Razor.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.WebPages.Deployment.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.WebPages.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.WebPages.Razor.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\WebGrease.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\websocket-sharp.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Antlr3.Runtime.pdb
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Dapper.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.pdb
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Auth.pdb
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Auth.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Core.pdb
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Google.Apis.Core.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\Newtonsoft.Json.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Helpers.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Mvc.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Optimization.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Razor.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.WebPages.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.WebPages.Deployment.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.WebPages.Razor.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\websocket-sharp.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Net.Http.Formatting.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Http.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\bin\System.Web.Http.WebHost.xml
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\obj\Release\ServicesToss.csprojAssemblyReference.cache
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\obj\Release\ServicesToss.csproj.CopyComplete
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\obj\Release\ServicesToss.dll
+Y:\IT\ITDept\Old @Work Job\Job Pitiwat\Project C#\ServicesToss\ServicesToss\obj\Release\ServicesToss.pdb
+D:\ServicesToss\ServicesToss\bin\roslyn\csc.exe
+D:\ServicesToss\ServicesToss\bin\roslyn\csc.exe.config
+D:\ServicesToss\ServicesToss\bin\roslyn\csc.rsp
+D:\ServicesToss\ServicesToss\bin\roslyn\csi.exe
+D:\ServicesToss\ServicesToss\bin\roslyn\csi.rsp
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ServicesToss\ServicesToss\bin\roslyn\System.AppContext.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\System.Collections.Immutable.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\System.IO.FileSystem.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\System.Reflection.Metadata.dll
+D:\ServicesToss\ServicesToss\bin\roslyn\vbc.exe
+D:\ServicesToss\ServicesToss\bin\roslyn\vbc.exe.config
+D:\ServicesToss\ServicesToss\bin\roslyn\vbc.rsp
+D:\ServicesToss\ServicesToss\bin\roslyn\VBCSCompiler.exe
+D:\ServicesToss\ServicesToss\bin\roslyn\VBCSCompiler.exe.config
+D:\ServicesToss\ServicesToss\bin\ServicesToss.dll.config
+D:\ServicesToss\ServicesToss\bin\ServicesToss.dll
+D:\ServicesToss\ServicesToss\bin\ServicesToss.pdb
+D:\ServicesToss\ServicesToss\bin\Antlr3.Runtime.dll
+D:\ServicesToss\ServicesToss\bin\Dapper.dll
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Auth.dll
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Auth.PlatformServices.dll
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Core.dll
+D:\ServicesToss\ServicesToss\bin\Google.Apis.dll
+D:\ServicesToss\ServicesToss\bin\Google.Apis.PlatformServices.dll
+D:\ServicesToss\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ServicesToss\ServicesToss\bin\Microsoft.Web.Infrastructure.dll
+D:\ServicesToss\ServicesToss\bin\Newtonsoft.Json.dll
+D:\ServicesToss\ServicesToss\bin\System.Net.Http.Formatting.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.Helpers.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.Http.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.Http.WebHost.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.Mvc.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.Optimization.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.Razor.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.WebPages.Deployment.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.WebPages.dll
+D:\ServicesToss\ServicesToss\bin\System.Web.WebPages.Razor.dll
+D:\ServicesToss\ServicesToss\bin\WebGrease.dll
+D:\ServicesToss\ServicesToss\bin\websocket-sharp.dll
+D:\ServicesToss\ServicesToss\bin\Antlr3.Runtime.pdb
+D:\ServicesToss\ServicesToss\bin\Dapper.xml
+D:\ServicesToss\ServicesToss\bin\Google.Apis.pdb
+D:\ServicesToss\ServicesToss\bin\Google.Apis.xml
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Auth.pdb
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Auth.xml
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Core.pdb
+D:\ServicesToss\ServicesToss\bin\Google.Apis.Core.xml
+D:\ServicesToss\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ServicesToss\ServicesToss\bin\Newtonsoft.Json.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.Helpers.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.Mvc.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.Optimization.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.Razor.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.WebPages.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.WebPages.Deployment.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.WebPages.Razor.xml
+D:\ServicesToss\ServicesToss\bin\websocket-sharp.xml
+D:\ServicesToss\ServicesToss\bin\System.Net.Http.Formatting.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.Http.xml
+D:\ServicesToss\ServicesToss\bin\System.Web.Http.WebHost.xml
+D:\ServicesToss\ServicesToss\obj\Release\ServicesToss.csprojAssemblyReference.cache
+D:\ServicesToss\ServicesToss\obj\Release\ServicesToss.csproj.CoreCompileInputs.cache
+D:\ServicesToss\ServicesToss\obj\Release\ServicesToss.csproj.CopyComplete
+D:\ServicesToss\ServicesToss\obj\Release\ServicesToss.dll
+D:\ServicesToss\ServicesToss\obj\Release\ServicesToss.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csc.exe
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csc.exe.config
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csc.rsp
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csi.exe
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csi.rsp
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.AppContext.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.Collections.Immutable.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.IO.FileSystem.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\vbc.exe
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\vbc.exe.config
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\vbc.rsp
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\VBCSCompiler.exe
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\roslyn\VBCSCompiler.exe.config
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\ServicesToss.dll.config
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\ServicesToss.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\ServicesToss.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Antlr3.Runtime.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Dapper.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Core.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.PlatformServices.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Microsoft.Web.Infrastructure.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Newtonsoft.Json.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Net.Http.Formatting.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Helpers.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.WebHost.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Mvc.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Optimization.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Razor.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Deployment.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Razor.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\WebGrease.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\websocket-sharp.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Antlr3.Runtime.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Dapper.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Core.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Core.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\Newtonsoft.Json.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Helpers.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Mvc.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Optimization.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Razor.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Deployment.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Razor.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\websocket-sharp.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Net.Http.Formatting.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.WebHost.xml
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.dll
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.pdb
+D:\Thiensurat\Programs\C#_Project\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.csprojResolveAssemblyReference.cache
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csc.exe
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csc.exe.config
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csc.rsp
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csi.exe
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\csi.rsp
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.AppContext.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.Collections.Immutable.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.IO.FileSystem.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\System.Reflection.Metadata.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\vbc.exe
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\vbc.exe.config
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\vbc.rsp
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\VBCSCompiler.exe
+D:\ServicesTossLastUpdate\ServicesToss\bin\roslyn\VBCSCompiler.exe.config
+D:\ServicesTossLastUpdate\ServicesToss\bin\ServicesToss.dll.config
+D:\ServicesTossLastUpdate\ServicesToss\bin\ServicesToss.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\ServicesToss.pdb
+D:\ServicesTossLastUpdate\ServicesToss\bin\Antlr3.Runtime.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Dapper.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.PlatformServices.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Core.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.PlatformServices.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Microsoft.Web.Infrastructure.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Newtonsoft.Json.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Net.Http.Formatting.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Helpers.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.WebHost.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Mvc.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Optimization.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Razor.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Deployment.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Razor.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\WebGrease.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\websocket-sharp.dll
+D:\ServicesTossLastUpdate\ServicesToss\bin\Antlr3.Runtime.pdb
+D:\ServicesTossLastUpdate\ServicesToss\bin\Dapper.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.pdb
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.pdb
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Auth.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Core.pdb
+D:\ServicesTossLastUpdate\ServicesToss\bin\Google.Apis.Core.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\Newtonsoft.Json.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Helpers.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Mvc.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Optimization.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Razor.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Deployment.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.WebPages.Razor.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\websocket-sharp.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Net.Http.Formatting.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.xml
+D:\ServicesTossLastUpdate\ServicesToss\bin\System.Web.Http.WebHost.xml
+D:\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.csprojAssemblyReference.cache
+D:\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.csproj.CoreCompileInputs.cache
+D:\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.csproj.CopyComplete
+D:\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.dll
+D:\ServicesTossLastUpdate\ServicesToss\obj\Release\ServicesToss.pdb
